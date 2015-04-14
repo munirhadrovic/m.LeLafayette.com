@@ -127,7 +127,7 @@
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
 		    
-		    <h1 style="color:black;">Powered by <a href="http://mobilegrows.com/">MobileGrows </a>|<a href="http://lelafayette.com/index.html" rel="external"> DesktopSite</a></h1>
+		    <h1 style="color:black;">Powered by <a href="http://mobilegrows.com/" rel="external">MobileGrows </a>|<a href="http://lelafayette.com/index.html" rel="external"> DesktopSite</a></h1>
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
